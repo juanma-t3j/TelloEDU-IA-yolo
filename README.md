@@ -7,5 +7,3 @@ The Darknet repository is downloaded from [AlexeyAB Darknet repository](https://
 #### System Overview
 ![Component Diagram](component-diagram.jpg)
 
-#### Youtube Channel
-Checkout my youtube channel [RobotAndCode](https://www.youtube.com/channel/UCQam-u9KZaMSelXoJDRrYJA?view_as=subscriber) for more exciting robot and code projects.
