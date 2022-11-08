@@ -1,4 +1,4 @@
-# PROJECT TELLO AI (YOLO Darknet)
+# PROJECT TELLO AI (YOLO)
 
 #### System Overview
 ![Component Diagram](component-diagram.jpg)
